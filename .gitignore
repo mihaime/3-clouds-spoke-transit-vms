@@ -2,3 +2,4 @@
 sensitive.tfvars
 init-cfg.txt
 bootstrap.xml
+cloud-init.tpl.bck
